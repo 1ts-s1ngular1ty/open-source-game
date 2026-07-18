@@ -2,7 +2,7 @@
 
 ## Status:
 - [x] Backbone Game Architecture In Place
-- [ ] Game Design Idea In Question
+- [ ] Game Design Idea In Progress
 
 ## Game Idea: THE GR1D
 > ⌛️ In Progress
