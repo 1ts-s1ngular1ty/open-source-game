@@ -12,5 +12,5 @@
 ![Roblox Game Architecture](/../main/roblox-game-architecture.png)
 
 ## Team:
-1. **S1NGULAR1TY** (github@1ts_s1ngular1ty / roblox@xTheodxre)
-    - Project Lead // Manager
+1. **S1NGULAR1TY** ([github@1ts_s1ngular1ty](https://github.com/1ts-s1ngular1ty) / [roblox@xTheodxre](https://www.roblox.com/users/699608387/profile))
+    - Creator // Project Lead // Manager
