@@ -1,1 +1,1 @@
-# open-source-game
+# E2E Open Source Roblox Game Project
